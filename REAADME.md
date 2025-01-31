@@ -1,3 +1,0 @@
--Detect the button presses and send the data to a Python script using serial communication
--Uses pin 12 to read the button state
--Uses serial communication (9600 baud rate) to send data to Python
